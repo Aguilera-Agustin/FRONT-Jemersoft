@@ -12,8 +12,6 @@ function App() {
     <Header/>
     <Divider/>
     <Searcher/>
-    <h4 className='suggestion'>Sugerencias</h4>
-    <PokemonCardContainer/> 
   </>
   )
 }
