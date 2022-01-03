@@ -1,0 +1,21 @@
+.searchBar {
+    width: 80%;
+    height: 3rem;
+    border-radius: 20px;
+    box-shadow: -6px 6px 4px 0px #E5E5E5B8;
+    border: 2px solid #E5E5E5;
+    outline: none;
+    padding: 0.5rem;
+    padding-left: 30px;
+    
+}
+
+.searchBar::placeholder {
+    opacity: 0.5;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}
